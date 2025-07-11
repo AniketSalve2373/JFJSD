@@ -1,0 +1,1 @@
+i successfully create and push the sample.txt file on github using terminal
